@@ -1,0 +1,418 @@
+
+*{
+	margin:0px;
+	padding: 0px;
+}
+.tm-upper-box{
+	height: 140px;
+	width: 990px;
+	margin:0 auto;
+	border:0px solid black;
+	margin-top: 20px;
+}
+.logo{
+	margin-top: 50px;
+	margin-bottom:18px;
+}
+.top-photo{
+	display: inline-block;
+	float: right;
+	margin-top: 63px;
+}
+.register{
+	width: 100%;
+	height: 361.167px;
+	color: #fff;
+	background: #d83230;
+}
+.inside-1{
+	border: 0px solid black;
+	width: 1020px;
+	height: 339px;
+	margin: 0 auto;
+}
+.inside-2{
+	width: 100%;
+	background:#ad2826;
+	height: 22.167px;
+}
+.registration{
+	width: 310px;
+    position: relative;
+    margin: 0 30px 30px 0;
+    padding: 15px 0 10px 0px;
+    float: left;
+    height: auto;
+ }
+.welcome-title{
+	font-size: 20px;
+	font-family: 'Merriweather Sans', sans-serif;
+	line-height: 15px;
+}
+.welcome-sub{
+	font-size: 36px;
+	font-family: 'Nunito Sans', sans-serif;
+	font-family: 'Merriweather Sans', sans-serif;
+	text-transform: uppercase;
+	line-height: 25px;
+	margin: 13px 0 15px;
+}
+.h2-title{
+	color: #d83230;
+	text-align: center;
+	margin-top: 45px;
+	font-size: 36px;
+	font-family: 'Libre Franklin', sans-serif;
+
+}
+.div-contain{
+	margin: 0 auto;
+}
+.div-contain div{
+	display: inline-block;
+}
+
+.border-line{
+	color: #D73131;
+	font-weight: bold;
+	position: relative;
+	font-size: 14px;
+	margin: 0px;
+	top: 5px;
+}
+.before {
+    color: #dbcba6;
+    position: absolute;
+    top: -3px;
+    left: 2px;
+}
+.after{
+	color: #dbcba6;
+    position: absolute;
+    margin-left: 20px;
+    top: -3px;
+
+}
+.one{
+	color: #3a3a3a;
+	font-size: 15.84px;
+	margin-top: 15px;
+	text-align: center;
+	font-family: 'Libre Franklin', sans-serif;
+	}
+.two{
+	color: #3a3a3a;
+	font-size: 15.84px;
+	margin-top: 15px;
+	text-align: center;
+	font-family: 'Libre Franklin', sans-serif;
+}
+.three{
+	color: #3a3a3a;
+	font-size: 15.84px;
+	margin-top: 15px;
+	margin-bottom: 0px;
+	text-align: center;
+	font-family: 'Libre Franklin', sans-serif;
+
+}
+.four{
+	color: #3a3a3a;
+	font-size: 15.84px;
+	margin-top: 15px;
+	margin-bottom: 0px;
+	text-align: center;
+	font-family: 'Libre Franklin', sans-serif;
+
+}
+.teacher{
+	background: #f4f1ea;
+	width: 100%;
+	position: relative;
+	height: 490px;
+}
+.teacher-video{
+	background: #fff;
+	padding: 15px;
+	min-height: 380px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	width: 970px;
+	margin: 0 auto;
+	background-image: url(../images/teacher.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+.teacher-section{
+	text-align: center;
+	height: 194px;
+	background: #fff;
+	width: 1020px;
+	margin: 0px auto;
+}
+.teacher-section h2{
+	color: #d83230;
+	font-size: 36px;
+	margin-top: 42px;
+	margin-bottom: 22px;
+	font-family: 'Libre Franklin', sans-serif;
+}
+.teacher-section {
+	display: inline-block;
+}
+.offer1{
+	display: inline-block;
+	width: 24.4%;
+	margin-bottom: 50px;
+	border-right: 1px solid #d83230;
+	border-left: 1px solid #d83230;
+}
+.teacher-section a{
+	text-decoration: none;
+}
+.offer2{
+	display: inline-block;
+	width: 24%;
+	margin-bottom: 50px;
+	border-right: 1px solid #d83230;
+}
+.offer3{
+	display: inline-block;
+	width: 24%;
+	margin-bottom: 50px;
+	border-right: 1px solid #d83230;
+}
+.offer4{
+	display: inline-block;
+	width: 24.4%;
+	margin-bottom: 50px;
+	border-right: 1px solid #d83230;
+}
+.lets-read{
+	background-color: #F4F1EA;
+}
+.lets-read-left{
+	display: inline-block;
+}
+.lets-read-left-subtitle{
+	color: #3FB0EB;
+	font-size: 32px;
+	text-align: center;
+	width: 485.1px;
+	height: 40px;
+	font-family: 'Libre Franklin', sans-serif;
+
+
+}
+.lets-read-left a{
+	color: #fff;
+	background-color: #3FB0EB;
+	display: inline-block;
+	font-size: 18px;
+	text-align: center;
+	width: 485.1px;
+	height: 40px;
+	text-decoration: none;
+	font-family: 'Libre Franklin', sans-serif;
+	margin-top: 14px;
+	line-height: 20px;
+}
+.lets-read-right{
+	display: inline-block;
+}
+.lets-read-right-subtitle{
+	color: #f88000;
+	font-size: 32px;
+	text-align: center;
+	width: 485.1px;
+	height: 40px;
+	font-family: 'Libre Franklin', sans-serif;
+
+
+}
+.lets-read-right a{
+	color: #fff;
+	background-color: #f88000;
+	display: inline-block;
+	font-size: 18px;
+	text-align: center;
+	width: 485.1px;
+	height: 40px;
+	text-decoration: none;
+	font-family: 'Libre Franklin', sans-serif;
+	margin-top: 14px;
+	line-height: 20px;
+}
+.footer-container{
+	margin:0 auto;
+}
+.footer-container div{
+	display: inline-block;
+	text-align: left;
+}
+.for-teachers{
+	width: 24.5%;
+	border-left: 3.5px solid white;
+	border-right: 3.5px solid white;
+}
+.for-parents{
+	width: 24%;
+	border-right: 3.5px solid white;
+}
+.contacts{
+	width: 24.5%;
+	border-right: 3.5px solid white;
+
+}
+.follow-us{
+	width: 24%;
+	border-right: 3.5px solid white;
+}
+.new-book{
+	margin:0 auto;
+	margin-top: 5px;
+	height: 432px;
+	width: 100%;
+	background-color: #3abaac ;
+	background-image:url(../images/sign-in-video-bg.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.book-image{
+	float: right;
+}
+.next-text-image-h2{
+	color: #fff;
+	font-size: 36px;
+	text-align: center;
+	margin: 0px !important;
+	padding: 22px 0px 3px 0px;
+	font-family: 'Libre Franklin', sans-serif;
+
+}
+.div-log-in div{
+	display :inline-block;
+}
+
+.log-in{
+	background-color: #ad2826;
+}
+.log-in2-div{
+	height: 236.817px;
+	width:660px;
+	border:0px solid white;
+}
+.log-in2-div div{
+	margin: 0 auto;
+}
+.middle-create{
+	width: 325px;
+	height: 132px;
+	padding-top: 40px;
+	padding-bottom: 15px;
+}
+.middle-create-text{
+	width: 325px;
+	height: 70px;
+	font-size: 24px;
+	text-align: center;
+	font-style:  'Libre Franklin', sans-serif;
+}
+.middle-create-link{
+	width: 273px;
+	height: 45px;
+	margin:14px 25px 29px 25px;
+	color: #fff;
+	background-color: #FC853F; 
+}
+.middle-create-link-1{
+	width: 273px;
+	height: 45px;
+	margin:14px 25px 29px 25px;
+	color: #fff;
+	background-color: #3FB0EB;
+}
+.left-create{
+	width: 325px;
+	height: 132px;
+	padding-top: 47px;
+	padding-bottom: 15px;
+	line-height: 45px;
+}
+.left-create-link{
+	width: 273px;
+	height: 45px;
+	margin:14px 25px 29px 25px;
+	color: #fff;
+	background-color: #3FB0EB;
+}
+.span-1{
+	width: 24.5%;
+	height: 172px;
+	display: inline-block;
+	border-right: 3px solid white;
+	border-left: 3px solid white;
+}
+.span-2{
+	width: 24.5%;
+	height: 172px;
+	display:inline- block;
+	border-right: 3px solid white;
+}
+.span-3{
+	width: 24%;
+	height: 172px;
+	display: inline-block;
+	border-right: 3px solid white;
+	
+}
+.span-4{
+	width: 24.5%;
+	height: 172px;
+	display: inline-block;
+	border-right: 3px solid white;
+	
+}
+.div-footer-2 a{
+	text-decoration: none;
+	color: #3a3a3a;
+	font-size: .8em;
+}
+.submit{
+	margin-left: 15px;
+	height: 45px;width:273px;
+	background-color:#FC853F;
+	color: white;font-family: 'Libre Franklin', sans-serif;
+	font-size: .55em;
+}
+.submit:hover{
+	background-color: #608a00;
+}
+.middle-create-link:hover{
+	background-color: #608a00;
+}
+.middle-create-link-1:hover{
+	background-color: #3197DB;
+}
+.div-footer a{
+	text-decoration: none;padding-left: 15px;color:  #3a3a3a;font-size: .85em;
+}
+.div-footer a:hover{
+	color: #f28005;
+}
+.div-footer-2 a:hover{
+
+	color: #f28005;
+}
+.scroll{
+	text-align: left;
+	height: 380px;
+	width: 319px;
+	overflow-y: auto;
+	float: right;
+	background-color: white;
+}
+.scroll div{
+	padding:10px; 
+}
